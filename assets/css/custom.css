@@ -1,13 +1,6 @@
 .pointer{
 	cursor:pointer
 }
-.hidden{
-	visibility:hidden
-}
-
-.hide{
-	display:none
-}
 .bottomleft {
     position: absolute;
     bottom: 14px;
